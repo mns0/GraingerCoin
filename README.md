@@ -1,0 +1,2 @@
+# GraingerCoin
+## Libaray property rights.
